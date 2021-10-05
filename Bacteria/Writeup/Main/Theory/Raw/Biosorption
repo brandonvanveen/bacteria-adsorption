@@ -1,0 +1,13 @@
+\parencite{Fomina2014} physico-chemical, metabolically independent processbased on a variety of mechanisms. Removal of substances by biological material. "Thus, the term biosorption can apparently describe any system where a solid sur- face of a biological matrix interacts with a sorbate resulting in the reduction in the solution sorbate concentration"
+
+Adsorption is a mass transfer process whereby pollutants from the liquid phase to the solid adsorbent. Adv: simple design, low price, easy maintenance and high efficiency \parencite{Wang2020}
+
+Umbrella term for sorbate in solution decreases due to attractive forces between sorbate and biosorbent. an adsorption mechanism to materials of biological origin. \parencite{Robalds2016}
+
+Need: definition of biomass
+\parencite{Volesky2007}:
+\begin{align}
+\label{eq:1}
+q=\frac{\left(C_0-C\right)V}{W}
+\end{align}
+

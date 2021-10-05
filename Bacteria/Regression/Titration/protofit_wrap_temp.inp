@@ -1,0 +1,29 @@
+	6
+1	1.0	1
+1	0	0
+1	1.0	3
+1	0	0
+1	1.0	5
+1	1.0	6
+1	1.0	7
+1	1.0	8
+1	1.0	9
+1	0	0
+1	0	0
+1	0	0
+ 1	1.0	1.0
+3	!	nsites
+0 2 1 0 	!itype
+4	! imod
+0	! capacitance
+4	! iact
+0	! isurfparam
+1	! iIS
+0 9.0	! ipHzpc, pHzpc_obs
+16	! nbest
+0	! nwex
+0 1_1.0	! icompare, isetcompare, wpar
+1	! setp1
+0.1	! step2
+1	! nsets
+"/mnt/0E786F10786EF63D/Users/brand/Documents/University/MEng/Project/Regression/Titration/output_data/200uL.dat"

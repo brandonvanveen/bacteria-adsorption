@@ -1,0 +1,48 @@
+Post progress
+
+\parencite{Payne2013}
+
+\parencite{Haas2001} subsurface anaerobic bacteria respiring with a variety of terminal electron acceptors, incl nitrate and some heavy metals. Bacteria that respire using soluble, oxidized-metal species aquire termianl elec acceptor ions through cross membrane diffusion. Surface complexation is an efficient reps a more efficient mechanism by which bacteria concentrate TEAs
+
+\begin{align}
+	> \ce{COOH} &= >\ce{COO- + H+} \\
+	K &= \frac{\left[>\ce{COO-}\right]\left[\ce{H+}\right]}{\left[> \ce{COOH}\right]} \\
+	K &= K_\mathrm{int} \exp\left(-\frac{\Delta ZF\Psi_o}{RT}\right)\\
+	C = \frac{\sigma}{\Psi_o}
+\end{align}
+
+Where K is the apparent eqbm constabt. An electrostatic tern is included where Kint is intr eqbm constantat 0 net surface charge and 0 conc of H+, delZ reps the change in charge of the adsorbing ion, F is faraday const, psi o is is surface electrical potential, R is gas const, T is abs temp. Electrical potential near surface described with constant capacitance model of electrical double layer, where capacitance C is related to psi and surface charge sigma. Refers to syudies that use constcap. C = 1 F/m2 used. Bacteria harvested in log growth phase. Also, ensure ionic strength is 
+
+Some good notes on titration methodology. : pH from 2 - 10 and reversed.
+pH titrations:
+\begin{equation}
+\ce{[H+]\textsubscript{meas} - [OH-]\textsubscript{meas} - [H+]\textsubscript{added} + [OH-]\textsubscript{added} = [H+]\textsubscript{exchanged}}
+\end{equation}
+Where meas is taken from the pH at each step, added is from each titration step. Potentiometric tit curves for H-exch in mol/L as a function of pH. Use FITEQL to fit for acid, base, amphoteric , acid+base models to get pH and site density.
+Also measured precent metal adsorbed as a function of pH where n = 13. 
+EQ3NR used to calc aqueous speciation.
+pKas are used to estimate what type of site ligand is resp for pKa.
+Estimated speciation profile can then be drawn up.
+Likely that reduction takes place on membrane or periplasm 
+
+\parencite{Ngwenya2015} Ionic strength  and pH play critical role in achieving optimum efficiency. Ionic strenghth effect used to determine whether ads happens as inner or outer sphere complexes. This is bc outer sph complexs are more sensitive to var in ionic str than inner sph (availablty of binding sites decreases with increasing electrolyte conc)
+charged surface (sorbent) and candidate ionic species in solution. Increasing ionic strength in the solution reduces the accessibility of sites to ionic species in solution due to the changing polarity of the surface layer
+In the outer- sphere complexes, uptake of ionic species is mediated by the bipolar hydronium ions that form the interface layer between the
+Potentiometric titration studies give qualitative measure of acid base properties of surface. Has some site/pKa assosciations.
+Effect of temp evaluated.
+
+\parencite{Worch2012} (oxidic) adsorbnts subject to proton and de protonation dep on pH. + charge at low pH, - at high pH. Point exists where surface charge = 0, aka pHpzc. Adsorption of charged species very influenced by this. Surface charge dependednce can be det by titration. Each point of tit curve, surface charge Qs can be calc as Qs = V/m*([H+]exchanged). Surface charge density sigma s calculated as 
+\begin{equation}
+	\sigma_s = \frac{Q_sF}{A_m}
+\end{equation}
+where F is faraday constant 96485 C/mol, Am is the specific surface area (m2/kg). Plot Qs or sigma s as f(pH). Intersection with abscissa (sigma s = 0) is pHpzc. Maybe research pHpzcs of various biosorbents.
+Adsorbed ions are strongly bound to in compact layer directly attached to surface. First part of electric double layer is called surface layer. Outer sphere complexation: ions bound to surface sites by chem bonds w/o losing hydration water (ie water molecule btwn ion and site) Weaker tha inner, also called beta layer. Beta layer still part of compact layer in dbl layer model. Beyond beta, diffuse layer exists where excess conc of ions charged oppositely to the charge of the surface layer compen- sates the remaining surface charge.
+Constant cap model, diffuse layer model, triple layer model useed to describe dist and location of adsobed species.
+protonation/deprotonation and the complex formation can be described by mass action laws with respective equilibrium constants. However, it has to be noted that the equilibrium constants depend on the surface charge due to attraction or repulsion caused by the charged surface groups. Enter: Kapp = Kintexp(psi...) equation, term describing influence of surface potential. Kapp expressed as product of constant indep of charge and a term describing infl of surface potential. Haas equation assumes reaction takes place on surface only, extra terms req fro beta layer. 
+To apply a surface complexation model for describing the adsorption of ions
+onto a charged surface, a multitude of equations has to be combined – in particu- lar, material balances for all species, mass action laws for all reactions in all con- sidered layers, charge balances in each layer, and charge-potential relationships for all considered layers. To reduce the number of equations, simplifying assumptions can be made – for instance, neglecting the beta layer. Relatively strong limitations of such equilibrium models result from uncertain-
+ties concerning the model assumptions, the need of simplifications, and the prob- lems in parameter determination as well as from the increasing complexity if a large number of ions are present in the water. Therefore, for practical purposes, frequently the conventional adsorption isotherm equations are used to describe the adsorption equilibria instead of applying a complex formation model. Never- theless, a qualitative characterization of surface chemistry – in particular, knowl- edge about the pH-dependent charges and the location of pHpzc – is helpful for interpretation of the adsorption processes on oxidic surfaces.
+
+pHpzc varies for AC betwn 5.5 and 7.2.
+Boehm titrstion used to quantify oxidic functional groups.
+

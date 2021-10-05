@@ -1,0 +1,17 @@
+\chapter{Experimental design}
+Exp Planning: Batch
+
+Optimal Biomass
+
+Effect of pH, temp, initial conc, contact time, and biosorbent dosage on biosorbent capacity.
+Elution
+
+Idea: effect of temperature not terribly important, just do pH isotherms. Investigate whether constant pH is maintained or not.
+
+\parencite{Fomina2014} Factors affecting: pH is mot NB, ionic strength of solution, C0, competing ads, bios nature, temp, agitation
+
+\parencite{Volesky2007} In ads isoth,  two variables are measured. The rest must remain constant, esp pH. Q: how do we control ionic strength? Also: equilibrium is essential in predicting column studies.
+
+\parencite{Vijayaraghavan2008} biosorption dosage: increase in biomass increases uptake, but sorbed solute per weight decreases. Could be complex interactions and or available solute is not enough to bind with active sites. Also, pH must be maintaned for clear picture.
+
+Killing bugs: 

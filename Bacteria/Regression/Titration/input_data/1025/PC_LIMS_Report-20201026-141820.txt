@@ -1,0 +1,165 @@
+$S PC/LIMS V1
+$S Devices V1
+$S device 848 Titrino plus V1
+P 5.848.0025	S 04298
+$S ADC1
+ADC 3.848.1210	S 10153
+$E
+$S MSB1
+$S 848
+S 90239	S 30036583
+$E
+$S 804
+S 16318	
+$E
+$S 848
+	
+$E
+$E
+$E
+$E
+$S Sample data V1
+		1.0	g
+$E
+$S MPL V2
+$S Mode 1	04	DET pH	V1.0
+1	0.0000	7.629	0.0	0.0	34.7
+2	0.0100	7.629	63.5	1.9	34.7
+3	0.0200	7.544	71.9	9.2	34.9
+4	0.0300	7.320	73.7	22.4	35.1
+5	0.0400	7.158	73.7	33.0	35.3
+6	0.0500	6.999	74.4	42.6	35.4
+7	0.0760	6.432	75.4	68.6	35.8
+8	0.0860	6.144	75.6	85.2	36.1
+9	0.0960	5.921	74.9	97.9	36.3
+10	0.1060	5.713	73.5	110.5	36.5
+11	0.1200	5.515	71.3	121.4	36.6
+12	0.1500	5.212	68.0	133.7	36.8
+13	0.1880	4.949	64.3	143.6	36.9
+14	0.2380	4.678	60.7	152.7	37.0
+15	0.2980	4.406	57.2	160.8	37.0
+16	0.3680	4.143	0.0	167.8	37.1
+17	0.4480	3.913	0.0	173.4	37.1
+$E
+$E
+$S DETERM V1
+$S Props V2
+A-UP HNO3	saved	20201026-141820	042981603721900000	2020-10-26 14:18:20	original	Regular without errors	Zacharia	7																												
+$E
+$S Results V1
+$S Result 1C.R1 V1
+EP Volume	0.4176	mL	0
+$E
+$S Result 1C.R2 V1
+		%	-1
+$E
+$S Result 1C.R3 V1
+		%	-1
+$E
+$S Result 1C.R4 V1
+		%	-1
+$E
+$S Result 1C.R5 V1
+		%	-1
+$E
+$E
+$S Mode 1	04	DET pH	V2.0
+$S EP V1
+0.0856	6.110	75.622	84.6	35.8	1
+$E
+$S Cal V1
+$E
+$S StdAdd V1
+$E
+$E
+$S Eval 1	06	EVAL FIX-EP	V2.0
+0.4176	4.000	171.3	37.1
+$E
+$S Other Variables V1
+$S System V1
+213.0	7	5438	0			0		0
+$E
+$S Mode 1	04	DET pH	V2.0
+		0.4480	206.3	0.0000	7.623	34.2	7.629	34.7	32.9	3.913	37.1	0.0000	0.0000	0.0000	6.929	96.3		17			Stop measured value reached	Pt1000			
+$E
+$S Statistic V2
+$E
+$S ComVar local V1
+$E
+$S Titrant V1
+$E
+$S Sensor V1
+$S Sensor1 V2
+pH electrode	pH			96.3	6.929	14.8	(Pt1000)	2020-10-26 13:24:27	A CAL_pH	Zacharia
+$E
+$E
+$E
+$S Calc Vars V1
+$S Calc1 V1
+$S R1 V1
+FP1	0.4176	
+$E
+$S R2 V1
+
+$E
+$S R3 V1
+
+$E
+$S R4 V1
+
+$E
+$S R5 V1
+
+$E
+$E
+$E
+$S Messages V1
+$E
+$E
+$S Methodproperties V1
+A-UP HNO3	saved	Zacharia	2020-09-01 10:11:39		2020-10-21 20:18:33																													
+$E
+$S Method V1
+$S Methodoptions V1.1
+off	3	off	ID1	ID2	on	on	off	1.0	g	off	0	9999999999	off	30 s	on		off	off	Card 1		ID1	on	on	off	on	off	no	**********00**	off	off
+$E
+$S 01	T+	DET pH
+off	110
+$E
+$S 02	CTRL	Send remote signal
+	on	off	200 ms
+$E
+$S 03	REQUEST	Data request
+off	off	off	off	on
+$E
+$S 04	DET pH	Dynamic pH titration
+	0.00000 mL	max.	30 s	off	off	5.00 mL/min	off	0 s	1 s	user	4	10.00 µL	off	max.	50.0 mV/min	0 s	26 s	25.0 °C	off	4 pH	off	off	off	max.	off	5	all	-20.000 pH	off	off	off	off	off	off	off	off	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	0.00000 mL	off	off	off	off	off	off	off	off	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	on	pH electrode	automatic	on		on	8	on
+$E
+$S 05	BEEP	Acoustic signal
+1
+$E
+$S 06	EVAL FIX-EP	Evaluation fixed endpoints
+pH	Measured value	4.0 pH	off	off	off	off	off	off	off	off
+$E
+$S 07	CALC	Calculation
+$S R1
+1	EP Volume	FP1	4	mL	0	off	off	0	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R2
+2			2	%	1	off	off	1	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R3
+3			2	%	2	off	off	2	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R4
+4			2	%	3	off	off	3	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R5
+5			2	%	4	off	off	4	on	off	Round	off	invalid	invalid	Display message		
+$E
+$E
+$S 08	T+ Report	
+off	off	off	off	off
+$E
+$E
+$E

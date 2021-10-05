@@ -1,0 +1,184 @@
+$S PC/LIMS V1
+$S Devices V1
+$S device 848 Titrino plus V1
+P 5.848.0025	S 04298
+$S ADC1
+ADC 3.848.1210	S 10153
+$E
+$S MSB1
+$S 848
+S 90239	
+$E
+$S 804
+S 16318	
+$E
+$S 848
+	
+$E
+$E
+$E
+$E
+$S Sample data V1
+		1.0	g
+$E
+$S MPL V2
+$S Mode 1	04	DET pH	V1.0
+1	0.0000	3.883	0.0	0.0	37.3
+2	0.0020	3.884	14.0	1.9	37.3
+3	0.0040	3.884	22.5	3.8	37.3
+4	0.0060	3.884	50.1	5.7	37.3
+5	0.3020	4.750	64.8	18.4	37.3
+6	0.3060	4.798	67.4	24.6	37.2
+7	0.3080	4.812	64.2	27.7	37.2
+8	0.3100	4.820	59.9	29.6	37.2
+9	0.3140	4.830	65.8	31.5	37.2
+10	0.4120	5.721	75.0	57.8	37.1
+11	0.4440	6.308	79.2	84.1	37.0
+12	0.4460	6.491	80.0	97.3	36.9
+13	0.4480	6.569	77.5	103.9	36.9
+14	0.4500	6.606	74.5	107.2	36.9
+15	0.4520	6.628	75.3	109.2	36.9
+16	0.4760	7.351	77.6	135.5	36.8
+17	0.4860	7.763	78.8	156.5	36.7
+18	0.4880	7.882	77.9	167.0	36.6
+19	0.4900	7.925	74.9	172.3	36.6
+20	0.4920	7.946	71.8	175.0	36.6
+21	0.5180	8.315	70.4	189.9	36.5
+22	0.5380	8.507	68.4	199.5	36.4
+23	0.5680	8.752	65.4	209.5	36.4
+24	0.6020	8.950	61.7	218.1	36.3
+25	0.6500	9.174	57.2	226.9	36.3
+26	0.7080	9.371	53.1	234.3	36.4
+27	0.7860	9.605	49.8	242.3	36.4
+28	0.8740	9.876	0.0	250.4	36.4
+29	0.9600	10.005	0.0	255.7	36.4
+$E
+$E
+$S DETERM V1
+$S Props V2
+A-UP NaOH	saved	20201026-165047	042981603731047000	2020-10-26 16:50:47	original	Regular without errors	Zacharia	6																												
+$E
+$S Results V1
+$S Result 1C.R1 V1
+EP Volume	0.3062	mL	0
+$E
+$S Result 1C.R2 V1
+		%	-1
+$E
+$S Result 1C.R3 V1
+		%	-1
+$E
+$S Result 1C.R4 V1
+		%	-1
+$E
+$S Result 1C.R5 V1
+		%	-1
+$E
+$E
+$S Mode 1	04	DET pH	V2.0
+$S EP V1
+0.3062	4.791	67.420	24.8	37.2	1
+0.4460	6.435	79.957	97.4	36.9	1
+0.4865	7.790	78.842	159.2	36.7	1
+$E
+$S Cal V1
+$E
+$S StdAdd V1
+$E
+$E
+$S Eval 1	06	EVAL FIX-EP	V2.0
+$E
+$S Other Variables V1
+$S System V1
+296.0	6	5457	0			0		0
+$E
+$S Mode 1	04	DET pH	V2.0
+0.9425	0.1	0.9600	288.6	0.0000	3.876	37.4	3.883	37.3	32.9	10.005	36.4	0.0000	0.0000	0.0000	6.929	96.3		29			Stop measured value reached	Pt1000			0.1M HCL PP
+$E
+$S Statistic V2
+$E
+$S ComVar local V1
+$E
+$S Titrant V1
+$S Titrant1 V1
+0.1M HCL PP	0.1	mol/L	0.9425		TITER HCL	2020-05-26 14:22:51	30036583	20	555020
+$E
+$E
+$S Sensor V1
+$S Sensor1 V2
+pH electrode	pH			96.3	6.929	14.8	(Pt1000)	2020-10-26 13:24:27	A CAL_pH	Zacharia
+$E
+$E
+$E
+$S Calc Vars V1
+$S Calc1 V1
+$S R1 V1
+EP1	0.3062	
+$E
+$S R2 V1
+
+$E
+$S R3 V1
+
+$E
+$S R4 V1
+
+$E
+$S R5 V1
+
+$E
+$E
+$E
+$S Messages V1
+$S Message1 V1.1
+4	DET pH	010-013	Dos.increment was corrected	35
+$E
+$E
+$E
+$S Methodproperties V1
+A-UP NaOH	saved	Zacharia	2020-09-01 10:11:39		2020-10-21 17:58:12																													
+$E
+$S Method V1
+$S Methodoptions V1.1
+off	3	off	ID1	ID2	on	on	off	1.0	g	off	0	9999999999	off	30 s	on		off	off	Card 1		ID1	on	on	off	on	off	no	**********00**	off	off
+$E
+$S 01	T+	DET pH
+off	110
+$E
+$S 02	CTRL	Send remote signal
+	on	off	200 ms
+$E
+$S 03	REQUEST	Data request
+off	off	off	off	on
+$E
+$S 04	DET pH	Dynamic pH titration
+	0.00000 mL	max.	30 s	off	off	5.00 mL/min	off	0 s	1 s	user	4	1 µL	off	max.	50.0 mV/min	0 s	26 s	25.0 °C	off	10 pH	off	off	off	max.	off	2	all	-20.000 pH	off	off	off	off	off	off	off	off	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	0.00000 mL	off	off	off	off	off	off	off	off	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	on	pH electrode	automatic	on	0.1M HCL PP	on	8	on
+$E
+$S 05	BEEP	Acoustic signal
+1
+$E
+$S 06	EVAL FIX-EP	Evaluation fixed endpoints
+pH	Measured value	off	off	off	off	off	off	off	off	off
+$E
+$S 07	CALC	Calculation
+$S R1
+1	EP Volume	EP1	4	mL	0	off	off	0	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R2
+2			2	%	1	off	off	1	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R3
+3			2	%	2	off	off	2	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R4
+4			2	%	3	off	off	3	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R5
+5			2	%	4	off	off	4	on	off	Round	off	invalid	invalid	Display message		
+$E
+$E
+$S 08	T+ Report	
+off	off	off	off	off
+$E
+$E
+$E

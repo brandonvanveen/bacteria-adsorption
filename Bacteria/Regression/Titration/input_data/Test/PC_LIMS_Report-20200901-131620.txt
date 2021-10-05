@@ -1,0 +1,207 @@
+$S PC/LIMS V1
+$S Devices V1
+$S device 848 Titrino plus V1
+P 5.848.0025	S 04298
+$S ADC1
+ADC 3.848.1210	S 10153
+$E
+$S MSB1
+$S 848
+S 90239	S 30036583
+$E
+$S 804
+S 16318	
+$E
+$S 848
+	
+$E
+$E
+$E
+$E
+$S Sample data V1
+		1.0	g
+$E
+$S MPL V2
+$S Mode 1	04	DET pH	V1.0
+1	0.0000	7.428	0.0	0.0	23.3
+2	0.0020	7.417	54.3	1.9	23.3
+3	0.0040	7.414	74.1	3.8	23.3
+4	0.0060	7.424	81.1	5.7	23.3
+5	0.0080	7.668	85.3	18.5	23.4
+6	0.0100	7.928	85.9	34.3	23.4
+7	0.0120	8.148	84.5	48.4	23.4
+8	0.0140	8.325	82.9	59.4	23.4
+9	0.0160	8.476	81.3	69.2	23.4
+10	0.0200	8.706	79.7	81.7	23.4
+11	0.0260	8.980	78.1	93.6	23.4
+12	0.0340	9.218	76.4	102.7	23.4
+13	0.0440	9.459	74.9	111.3	23.4
+14	0.0560	9.682	73.4	119.3	23.4
+15	0.0720	9.916	71.4	127.3	23.4
+16	0.0920	10.131	68.6	134.5	23.4
+17	0.1200	10.344	64.5	141.1	23.4
+18	0.1580	10.536	58.4	147.0	23.4
+19	0.2120	10.722	50.3	152.5	23.4
+20	0.2880	10.894	40.6	157.9	23.4
+21	0.4000	11.061	30.8	163.7	23.4
+22	0.5580	11.206	23.2	168.8	23.4
+23	0.7860	11.386	17.7	174.3	23.4
+24	1.0400	11.512	13.1	180.1	23.4
+25	1.3820	11.638	9.8	185.8	23.4
+26	1.7840	11.749	7.6	191.7	23.4
+27	2.2460	11.848	6.0	197.4	23.4
+28	2.7600	11.934	4.9	203.3	23.4
+29	3.3180	12.012	4.0	209.2	23.4
+30	3.9100	12.080	3.4	215.0	23.4
+31	4.5320	12.138	2.9	220.6	23.4
+32	5.1860	12.193	2.5	226.3	23.4
+33	5.8520	12.241	2.2	231.6	23.4
+34	6.5380	12.282	1.9	236.8	23.4
+35	7.2440	12.322	1.5	241.8	23.4
+36	7.9540	12.341	1.4	244.8	23.4
+37	8.7220	12.375	1.4	247.4	23.4
+38	9.4540	12.407	1.4	250.0	23.4
+39	10.1900	12.432	1.3	252.6	23.4
+40	10.9400	12.462	1.3	255.2	23.4
+41	11.6840	12.487	1.2	257.8	23.4
+42	12.4380	12.511	1.2	260.4	23.4
+43	13.1940	12.536	1.1	263.0	23.4
+44	13.9500	12.557	1.0	265.6	23.4
+45	14.7180	12.575	0.9	268.2	23.4
+46	15.4920	12.594	0.7	270.8	23.4
+47	16.2660	12.611	0.7	273.4	23.4
+48	17.0440	12.631	0.7	276.0	23.4
+49	17.8160	12.646	0.6	278.6	23.4
+50	18.5980	12.661	0.6	281.2	23.4
+51	19.3820	12.676	0.9	283.9	23.4
+52	20.1680	12.705	0.6	310.6	23.4
+53	20.9040	12.709	0.0	313.2	23.4
+54	21.6820	12.718	0.0	315.8	23.4
+$E
+$E
+$S DETERM V1
+$S Props V2
+A-UP NaOH De	modified	20200901-131620	042981598966180000	2020-09-01 13:16:20	original	Regular without errors	Zacharia	1																												
+$E
+$S Results V1
+$S Result 1C.R1 V1
+EP Volume	0.0094	mL	0
+$E
+$S Result 1C.R2 V1
+		%	-1
+$E
+$S Result 1C.R3 V1
+		%	-1
+$E
+$S Result 1C.R4 V1
+		%	-1
+$E
+$S Result 1C.R5 V1
+		%	-1
+$E
+$E
+$S Mode 1	04	DET pH	V2.0
+$S EP V1
+0.0094	7.883	85.937	29.6	23.4	1
+$E
+$S Cal V1
+$E
+$S StdAdd V1
+$E
+$E
+$S Eval 1	06	EVAL FIX-EP	V2.0
+$E
+$S Other Variables V1
+$S System V1
+357.0	1	5397	0			0		0
+$E
+$S Mode 1	04	DET pH	V2.0
+0.9425	0.1	21.6820	348.7	0.0000	7.582	23.3	7.428	23.3	32.9	12.718	23.4	0.0000	0.0000	0.0000	6.909	98.4		54			Stop volume reached	Pt1000			0.1M HCL PP
+$E
+$S Statistic V2
+$E
+$S ComVar local V1
+$E
+$S Titrant V1
+$S Titrant1 V1
+0.1M HCL PP	0.1	mol/L	0.9425		TITER HCL	2020-05-26 14:22:51	30036583	20	555020
+$E
+$E
+$S Sensor V1
+$S Sensor1 V2
+pH electrode	pH			98.4	6.909	23.3	(Pt1000)	2020-09-01 11:57:52	A CAL_pH	Zacharia
+$E
+$E
+$E
+$S Calc Vars V1
+$S Calc1 V1
+$S R1 V1
+EP1	0.0094	
+$E
+$S R2 V1
+
+$E
+$S R3 V1
+
+$E
+$S R4 V1
+
+$E
+$S R5 V1
+
+$E
+$E
+$E
+$S Messages V1
+$S Message1 V1.1
+4	DET pH	010-013	Dos.increment was corrected	35
+$E
+$E
+$E
+$S Methodproperties V1
+A-UP NaOH De	modified	Zacharia	2020-09-01 10:11:39		2020-09-01 13:14:44																													
+$E
+$S Method V1
+$S Methodoptions V1.1
+off	3	off	ID1	ID2	on	on	off	1.0	g	off	0	9999999999	off	30 s	on		off	off	Card 1		ID1	on	on	off	on	off	no	**********00**	off	off
+$E
+$S 01	T+	DET pH
+off	110
+$E
+$S 02	CTRL	Send remote signal
+	on	off	200 ms
+$E
+$S 03	REQUEST	Data request
+off	off	off	off	on
+$E
+$S 04	DET pH	Dynamic pH titration
+	0.00000 mL	max.	30 s	off	off	5.00 mL/min	off	0 s	1 s	user	4	1 µL	off	max.	50.0 mV/min	0 s	26 s	25.0 °C	10 mL	off	6	off	off	max.	off	2	all	-20.000 pH	off	off	off	off	off	off	off	off	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	20.000 pH	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	0.00000 mL	off	off	off	off	off	off	off	off	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	9999.99 mL	5	5	5	5	5	5	5	5	5	first	first	first	first	first	first	first	first	first	on	pH electrode	automatic	on	0.1M HCL PP	on	8	on
+$E
+$S 05	BEEP	Acoustic signal
+1
+$E
+$S 06	EVAL FIX-EP	Evaluation fixed endpoints
+pH	Measured value	off	off	off	off	off	off	off	off	off
+$E
+$S 07	CALC	Calculation
+$S R1
+1	EP Volume	EP1	4	mL	0	off	off	0	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R2
+2			2	%	1	off	off	1	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R3
+3			2	%	2	off	off	2	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R4
+4			2	%	3	off	off	3	on	off	Round	off	invalid	invalid	Display message		
+$E
+$S R5
+5			2	%	4	off	off	4	on	off	Round	off	invalid	invalid	Display message		
+$E
+$E
+$S 08	T+ Report	
+off	off	off	off	off
+$E
+$E
+$E

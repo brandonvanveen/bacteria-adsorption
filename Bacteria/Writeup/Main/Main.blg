@@ -1,0 +1,22 @@
+[0] Config.pm:304> INFO - This is Biber 2.14 (beta)
+[0] Config.pm:307> INFO - Logfile is 'Main.blg'
+[91] biber:322> INFO - === Tue Nov  3, 2020, 08:55:29
+[137] Biber.pm:415> INFO - Reading 'Main.bcf'
+[260] Biber.pm:943> INFO - Found 136 citekeys in bib section 0
+[277] Biber.pm:4256> INFO - Processing section 0
+[278] Utils.pm:75> INFO - Globbing data source 'MEng.bib'
+[278] Utils.pm:91> INFO - Globbed data source 'MEng.bib' to MEng.bib
+[353] Biber.pm:4455> INFO - Looking for bibtex format file 'MEng.bib' for section 0
+[440] bibtex.pm:1653> INFO - LaTeX decoding ...
+[1394] bibtex.pm:1471> INFO - Found BibTeX data source 'MEng.bib'
+[1422] Utils.pm:293> WARN - Duplicate entry key: 'Chatterjee2012' in file 'MEng.bib', skipping ...
+[1424] Utils.pm:293> WARN - Duplicate entry key: 'DWAF1998' in file 'MEng.bib', skipping ...
+[2460] Utils.pm:293> WARN - BibTeX subsystem: /tmp/biber_tmp_G1CH/MEng.bib_72573.utf8, line 6, warning: 172 characters of junk seen at toplevel
+[2460] Utils.pm:293> WARN - I didn't find a database entry for '(' (section 0)
+[2669] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[2669] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[2669] Biber.pm:4084> INFO - Sorting list 'nyt/global//global/global' of type 'entry' with template 'nyt' and locale 'en-US'
+[2669] Biber.pm:4090> INFO - No sort tailoring available for locale 'en-US'
+[2870] bbl.pm:652> INFO - Writing 'Main.bbl' with encoding 'UTF-8'
+[2997] bbl.pm:755> INFO - Output to Main.bbl
+[2998] Biber.pm:128> INFO - WARNINGS: 4

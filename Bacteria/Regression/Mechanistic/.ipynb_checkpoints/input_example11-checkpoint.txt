@@ -1,0 +1,6 @@
+TITLE Example 11.--Transport and ion exchange
+SOLUTION 0 CaCl2
+    unitsmmol/kgw
+        temp     25.0
+        pH               7
+    """

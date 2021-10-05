@@ -1,0 +1,53 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\babel@toc {english}{}
+\contentsline {chapter}{\numberline {1}Theory}{3}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Background}{3}{section.1.1}%
+\contentsline {subsection}{\numberline {1.1.1}Lead and the environment}{3}{subsection.1.1.1}%
+\contentsline {subsection}{\numberline {1.1.2}Current heavy metal removal technology}{5}{subsection.1.1.2}%
+\contentsline {subsection}{\numberline {1.1.3}Bioremediation and biorecovery of aqueous lead by local lead-resistant organisms}{7}{subsection.1.1.3}%
+\contentsline {subsubsection}{Consortium characterisation}{7}{section*.4}%
+\contentsline {subsubsection}{Lead precipitation}{8}{section*.5}%
+\contentsline {subsubsection}{Modelling microbial kinetics}{8}{section*.6}%
+\contentsline {subsubsection}{Continuous reactor}{11}{section*.11}%
+\contentsline {section}{\numberline {1.2}The role of biosorption}{11}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}Introduction}{11}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}Characteristising the consortium as a biosorbent}{12}{subsection.1.2.2}%
+\contentsline {subsubsection}{Structure of bacteria}{14}{section*.14}%
+\contentsline {subsubsection}{Laboratory characterisation}{15}{section*.18}%
+\contentsline {subsection}{\numberline {1.2.3}Mechanisms of metal biosorption}{19}{subsection.1.2.3}%
+\contentsline {paragraph}{Physisorption}{19}{section*.20}%
+\contentsline {paragraph}{Ion exchange}{19}{section*.21}%
+\contentsline {paragraph}{Chemisortption}{20}{section*.23}%
+\contentsline {paragraph}{Microprecipitation}{22}{section*.26}%
+\contentsline {subsection}{\numberline {1.2.4}Modelling batch adsorption}{22}{subsection.1.2.4}%
+\contentsline {subsubsection}{Equilibrium models}{22}{section*.27}%
+\contentsline {paragraph}{Non-electrostatic adsorption}{24}{section*.28}%
+\contentsline {paragraph}{Constant capacitance}{25}{section*.29}%
+\contentsline {paragraph}{Double layer}{25}{section*.30}%
+\contentsline {paragraph}{Donnan shell}{25}{section*.31}%
+\contentsline {paragraph}{Thermodynamics}{26}{section*.32}%
+\contentsline {subsubsection}{Kinetic models}{29}{section*.33}%
+\contentsline {paragraph}{External diffusion}{29}{section*.34}%
+\contentsline {paragraph}{Internal diffusion}{29}{section*.35}%
+\contentsline {paragraph}{Final adsorption}{30}{section*.36}%
+\contentsline {subsubsection}{Model comparison}{34}{section*.37}%
+\contentsline {paragraph}{Coefficient of determination}{34}{section*.38}%
+\contentsline {paragraph}{Akaike information criterion}{34}{section*.39}%
+\contentsline {chapter}{\numberline {2}Experimental}{36}{chapter.2}%
+\contentsline {section}{\numberline {2.1}General experimental procedures}{36}{section.2.1}%
+\contentsline {subsection}{\numberline {2.1.1}Biosorption material preparation}{36}{subsection.2.1.1}%
+\contentsline {subsection}{\numberline {2.1.2}Dry mass measurement}{36}{subsection.2.1.2}%
+\contentsline {subsection}{\numberline {2.1.3}Plate count}{36}{subsection.2.1.3}%
+\contentsline {subsection}{\numberline {2.1.4}Pb(II) concentration measurement}{37}{subsection.2.1.4}%
+\contentsline {subsection}{\numberline {2.1.5}Metabolic activity measurement}{37}{subsection.2.1.5}%
+\contentsline {section}{\numberline {2.2}Effect of initial Pb(II) and biomass concentration on equilibrium Pb(II) concentration}{38}{section.2.2}%
+\contentsline {subsection}{\numberline {2.2.1}Introduction}{38}{subsection.2.2.1}%
+\contentsline {subsection}{\numberline {2.2.2}Materials and methods}{38}{subsection.2.2.2}%
+\contentsline {subsection}{\numberline {2.2.3}Results and discussion}{38}{subsection.2.2.3}%
+\contentsline {section}{\numberline {2.3}Titration}{39}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}Introduction}{39}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}Materials and methods}{39}{subsection.2.3.2}%
+\contentsline {subsection}{\numberline {2.3.3}Results and discussion}{40}{subsection.2.3.3}%
+\contentsline {section}{\numberline {2.4}Adsorption kinetics}{40}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Adsorption equilibrium}{40}{section.2.5}%
+\contentsline {chapter}{References}{41}{chapter*.41}%

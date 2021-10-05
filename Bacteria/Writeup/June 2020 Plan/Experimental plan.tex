@@ -1,0 +1,86 @@
+\documentclass[hidelinks,12pt,a4paper]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{siunitx}
+\usepackage[version=4]{mhchem}
+\usepackage[style=authoryear, dashed=false, backend=biber, maxbibnames=99, giveninits=true,
+citetracker=true, maxcitenames=2, natbib=true, terseinits=true, uniquename=false]{biblatex}
+\usepackage{odsfile,booktabs}
+\usepackage{lscape}
+\usepackage{longtable}
+\usepackage{chemfig}
+\usepackage{heuristica}
+\usepackage[heuristica,vvarbb,bigdelims]{newtxmath}
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{\textosf{#1}}
+\usepackage[hang, bf, small]{caption}
+\usepackage{tabularx}
+\usepackage{footnote}
+%\usepackage{tikz}
+\usepackage[edges]{forest}
+\usetikzlibrary{positioning,arrows}
+\usepackage{graphicx}
+
+
+
+\DeclareSIUnit\au{AU}
+\DeclareSIUnit\mgpl{\milli\gram\per\liter}
+\DeclareSIUnit\mgg{\milli\gram\per\gram}
+\DeclareSIUnit\M{M}
+
+\title{Modelling microbial Pb(II) removal: Experimental layout}
+\author{Brandon van Veenhuyzen}
+\addbibresource{MEng.bib}
+
+\begin{document}
+	
+	\maketitle
+	
+	\noindent Although I was eager to build a reactor and test continuous operation of our bacteria, I believe time and effort would be best spent in doing a richer study into the adsorption mechanisms of the bacteria.
+	
+	\section{Kinetic study}
+	
+	The goal of the kinetic study is to gain a greater understanding of what happens during the initial phase of Pb removal that follows inoculation. The conditions of Carla's experiment will be replicated as far as possible. The problem with replication, however, is that Carla's inoculum is already laden with \ce{Pb^2+} and \ce{PbS}. The determination of  kinetics for lead-free adsorbate will be prioritised, but the different behaviour of lead-laden adsorbate is crucial in understanding the first three hours of Carla's experimental runs.
+	
+	Experimental runs will focus on the range of Carla's initial concentrations of \SIrange{80}{500}{\mgpl} \ce{Pb^2+}. A phosphate-buffered saline solution will be used to regulate pH. The effect of temperature and pH on kinetics will not be prioritised, but can be investigated if time allows.
+	
+	\section{Equilibrium study}
+	
+	Initial investigations place $q_\mathrm{max}$ in the region of \SI{2000}{\mgg}. This should allow a concentration range to be calculated. It might also be beneficial to determine optimal biomass concentration with experiment before embarking on equilibrium runs.
+	
+	The effect of pH on adsorption will be prioritised while keeping temperature constant. Although temperature is important, pH seems to have a far greater influence on adsorption. 
+	
+	\section{Material characterisation}
+	
+	\subsection{FTIR}
+	
+	FTIR will be used to observe adsorbent before and after equilibrium experiments to determine which molecular bonds are involved in adsorption.
+	
+	\subsection{pH\textsubscript{pzc}}
+	
+	Determining the point of zero charge will be done to give insight into surface charge of the bacteria.
+	
+	\section{Mechanism study}
+	
+	Partitioning of homogeneous adsorption models into different mechanisms can prove useful. Mechanism studies can be done in parallel with equilibrium experiments.
+	
+	\subsection{Ion exchange}
+	
+	Measure the concentration of \ce{Ca^2+}, \ce{Mg^2+}, \ce{K+}, \ce{Na+} released by bacteria with AA spectroscopy to determine the role of ion exchange.
+	
+	\subsection{Chemisorption}
+	
+	The blocking of hydroxyl and carboxyl groups with formaldehyde and acidic methanol respectively can be used to observe how much adsorption decreases. 
+	
+	\subsection{Fate of adsorbed lead}
+	
+	It would make for an interesting investigation to observe whether \ce{Pb(II)} adsorbed onto living bacteria reacts to form PbS or whether it stays adsorbed. A proposed method would be exposing bacteria to aqueous lead until equilibrium is reached, afterwhich the bacteria are separated from solution and tested for PbS. Depending on possible constraints, EDS or visual tests can be used to detect precipitate.
+	
+\end{document}

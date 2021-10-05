@@ -1,0 +1,42 @@
+\parencite{Vijayaraghavan2008} Empirical: simple mathematical, relationships that give a good description of experimental data based on limited adjustable parameters. Ususally empircals are not developed for biosorption and assumptions do not apply, but have been shown to reflect experimental work.
+
+
+\textit{Equilibrium} The Langmuir isotherm model is frequently used under the assumption of a fixed number of sites where reversible, monolayer adsorption takes place with no interaction between adsorbate species  \parencite{Tran2017} and can be expressed as:
+\begin{align}
+q_e=\frac{q_{\mathrm{max}}K_LC_e}{1+K_LC_e} \label{eq:5}
+\end{align}
+Where $q_{\mathrm{max}}$ is the amount od adsorbate on the adsorbent at equilibrium maximum saturated monolayer adsorption capacity (mg/g), $K_L$ is the Langmuir adsorption equilibrium constant (L/mg) related to affinity between adsorbate and adsorbent, and $C_e$ is the equilibrium concentration of Pb(II) in solution (mg/L).
+
+The Freundlich isotherm equation describes reversible, non-ideal, multilayer adsorption and is usually used for heterogenous adsorbents like biomass \parencite{Foo2010}. This model has, however, been found to inadequately describe the linearity range at very low concentrations or saturation effects at very high concentrations \parencite{Tran2017}. The Freundlich equation can be expressed as 
+\begin{align}
+q_e=K_FC_e^n \label{eq:6}
+\end{align}
+Where $K_F$ is the Freundlich constant in (mg/g)/(mg/L)$^n$ and $n$ is the Freundlich intensity parameter. The isotherm is linear when $n=1$, favourable when $n \le 1$, and unfavourable when $n \ge 1$ \parencite{Tran2017}.
+
+The Langmuir-Freundlich model is a three parameter power function based on the assumption of continuously distributed affinity coefficients \parencite{Bolster2007} and is represented in Equation \ref{eq:7}.
+\begin{align}
+q_e=\frac{q_{\mathrm{max}}K_{LF}C_e^\beta}{1+K_{LF}C_e^\beta} \label{eq:7}
+\end{align}
+Here, $K_{LF}$ is the Langmuir-Freundlich constant in (L/mg)$^\beta$ and $\beta$ is a fitting parameter between 0 and 1. The two-surface Langmuir model is employed upon the assumption that adsorption takes place on two surfaces with differing bonding energies and is expressed in Equation \ref{eq:8}.
+\begin{align}
+q_e=\frac{q_{\mathrm{max,\ 1}}K_{L1}C_e}{1+K_{L1}C_e}+\frac{q_{\mathrm{max,\ 2}}K_{L2}C_e}{1+K_{L2}C_e} \label{eq:8}
+\end{align}
+The enumeration in the subscripts indicate which of the two surfaces the parameter belongs to. 
+
+
+
+
+
+Temkin
+Flory-Huggins
+Redlich-Paterson 
+Sips
+Toth \\
+
+Others:
+Elovich
+Langmuir-Hinshelwood (X. Jin, G. Bailey, Y. Yu, A. Lynch, Kinetics of single and multiple metal Ion sorption processes on humic substances, Soil Sci. 161 (8) (1996) 509–520.
+[146])
+Parabolic diffusion S.C. Hodges, G.C. Johnson, Kinetics of sulfate adsorption and desorption by cecil soil using miscible displacement 1, Soil Sci. Soc. Am. J. 51 (1987) 323–331.
+Adam-Bohart-Thomas model
+Lagergren

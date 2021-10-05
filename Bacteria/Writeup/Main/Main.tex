@@ -1,0 +1,58 @@
+\documentclass[hidelinks,12pt,a4paper]{report}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{gensymb}
+\usepackage{hyperref}
+\usepackage{array}
+\usepackage{siunitx}
+\usepackage[version=4]{mhchem}
+\usepackage[style=authoryear, dashed=false, backend=biber, maxbibnames=99, giveninits=true,
+citetracker=true, maxcitenames=2, natbib=true, terseinits=true, uniquename=false]{biblatex}
+\usepackage{odsfile,booktabs}
+\usepackage{lscape}
+\usepackage{pdflscape}
+\usepackage{longtable}
+\usepackage{chemfig}
+\usepackage{heuristica}
+\usepackage[heuristica,vvarbb,bigdelims]{newtxmath}
+\usepackage[T1]{fontenc}
+\renewcommand*\oldstylenums[1]{\textosf{#1}}
+%\usepackage{fontspec}
+%\setmainfont{QTPalatine}
+\usepackage[hang, bf, small]{caption}
+\usepackage{tabularx}
+\usepackage{footnote}
+%\usepackage{tikz}
+\usepackage[edges]{forest}
+\usetikzlibrary{positioning,arrows}
+\usepackage{graphicx}
+\usepackage{geometry}
+
+
+
+\DeclareSIUnit\au{AU}
+\DeclareSIUnit\mgpl{\milli\gram\per\liter}
+\DeclareSIUnit\mgg{\milli\gram\per\gram}
+\DeclareSIUnit\cell{cell}
+
+\title{Microbial Pb(II) removal: modelling the role of passive mechanisms}
+\author{Brandon van Veenhuyzen}
+\addbibresource{MEng.bib}
+
+
+\begin{document}
+	
+	\maketitle
+	\tableofcontents
+	
+	\input{Theory/Theory.tex}
+	
+	\input{Experimental/Experimental.tex}
+	
+	\printbibliography[title=References, heading=bibintoc]
+	
+\end{document}

@@ -1,0 +1,67 @@
+\section{Continuous operation}
+
+The transfer of bioremediation from batch to continuous processes are considered vital for assessing their industrial feasibility \parencite{Vijayaraghavan2008}. Two different continuous processes are discussed in this section.
+
+\subsection{Upflow anaerobic sludge blanket process}
+
+The upflow anaerobic sludge blanket (UASB) process is regarded as the most popular high-rate anaerobic system in the world \parencite{Hansen2018}. It is primarily used to treat waste water but has also been adapted for purposes like biohydrogen production \parencite{Gunasekaran2019}. In UASB processes, substrate is fed into the bottom of a column while effluent and gas are extracted from the top. The column stratifies into three zones: a well-mixed dense sludge at the bottom, a liquid "dead-zone" in the middle with particles of low settling velocity, and an upper gas zone \parencite{Hansen2018}. UASB processes generally have long start up times, but these can be improved with the addition of sludge from other reactors \parencite{Tchobanoglous2014}.
+
+Two prominent approaches to simulating a UASB reactor are found in literature, namely models that involve perfect mixing and models that consider concentration gradients. 
+
+\paragraph{Perfect mixing} UASB processes can be modelled as continuous stirred-tank reactors (CSTRs) with the assumption of uniform concentration in the reactor. The mole balance in a CSTR can be expressed as \parencite{Fogler2006}:
+\begin{equation}
+	C_{i0} - C_i = -r_i \tau 
+\end{equation}
+Where $ C_{i0} $ and $ C_{i} $ are the initial and final concentrations of a species $ i $  (\si{\mol\per\liter}), $ r_i $ is the reaction rate (\si{\mol\per\liter\per\minute}) and $ \tau $ is the residence time (\si{\minute}).
+
+Although the UASB reactor can be modelled as a single CSTR \parencite{Donoso-bravo2013}, the high retention of sludge in the blanket is not accurately depicted by this. Solids retention can be accounted for in a variety of ways. \textcite{Prasad2016} were able to simulate a UASB process within \SI{10}{\percent} error by modelling sludge retention as an external recycle stream, while \textcite{Lopez2009} employed a solids retention fraction for effluent to limit the amount of sludge leaving the reactor.
+
+Alternatively, the different strata in a UASB reactor can be treated as two \parencite{Bhunia2008}, three \parencite{Chua1998}, or multiple \parencite{Chen2015} CSTRs in series.   
+
+
+\paragraph{Concentration gradient} The simplifying assumptions of perfect mixing can be dissatisfactory for accurate UASB process modelling. \parencite{Chen2014}. 
+
+\textcite{Zeng2005} and \textcite{Chen2014} made use of the axial dispersion hydraulic model to describe the bulk motion of fluid and diffusion caused by random motion in response to decaying eddies \parencite{Martin2000}:
+\begin{equation}
+\frac{\partial C_i}{\partial t} = \frac{\partial}{\partial z} \left( D \frac{\partial C_i}{\partial z}  \right) - u \frac{\partial C_i}{\partial z}
+\end{equation}
+Here, $ z $ is the axial position in the bed (\si{\meter}), $ D $ is the dispersive coefficient (\si{\meter\squared\per\minute}), and $ u $ is the upflow velocity (\si{\meter\per\minute}). The employment of an axial dispersion model is computationally intensive but proves more advantageous than a multiple CSTR approach \parencite{Chen2014}.
+
+
+\subsection{Packed bed process}
+
+Biomass immobilised in packed bed reactors have proven  promising for metal removal \parencite{DuncanJ.R.2003,Vijayaraghavan2008}. Most literature regarding biomass in packed bed reactors focuses on dead biomass, however some authors employ living cultures \parencite{Colzi2018,Hlihor2017a,Pagnanelli2012b}.  When evaluating packed bed performance,  breakthrough curves are experimentally determined by measuring the ratio of effluent to influent  concentrations as a function of time. The time at which the effluent concentration is above a maximum disposal limit is referred to as the breakthrough time $ t_b $ and the time at which influent and effluent concentrations is the exhaustion time $ t_e $. The length of the adsorption zone $ L_m $ can therefore be approximated for a column of length $ L $ \parencite{Volesky2003}:
+\begin{equation}
+L_m = L\left(1 - \frac{t_b}{t_c}\right)\\
+\end{equation}
+where lengths are in \si{\meter} and times are in \si{\minute}.
+
+Breakthrough curves are modelled by a variety of methods.  In the simplest form, a third order polynomial can be used \parencite{Volesky2003}. Neural networks have also proven to be promising \parencite{Giri2011a,Oguz2010} to model the effects multiple operating conditions \parencite{Giri2011a,Oguz2010} but generally require large amounts of experimental data. Several common empirical models are discussed in this section. \textcite{Volesky2007} stresses the importance of modelling using data from batch isotherm experiments to  help narrow down operating flow rates in packed bed column experimental design.
+
+\paragraph{Thomas} The Thomas model is one of the most popular breakthrough curve models. It is based on Langmuir kinetics and assumes no axial dispersion. The model is given as \parencite{Chowdhury2013}:
+\begin{equation}
+\frac{C_t}{C_0} = \frac{1}{1 + \exp\left[ \left(k_{Th} q_e x/Q\right) - k_{Th}C_0 t \right]}
+\end{equation}
+Where $ C_t $ is the concentration of pollutant as a function of time  (\si{\mgpl}), $ C_0 $ is the influent concentration (\si{\mgpl}), and $ k_{Th} $ is the kinetic coefficient  (\si{\milli\liter\per\minute\per\milli\gram}).
+
+\paragraph{Clark} The Clark model is based on mass transfer in combination with the Freundlich isotherm \parencite{Clark1987}:
+\begin{equation}
+\frac{C_t}{C_0} = \left( \frac{1}{1 + K_{CM} e^{-rt}} \right)^{\alpha - 1}
+\end{equation}
+Where $ K_{CM} $ and $ r $ (\si{\per\minute}) are Clark model constants; $ \alpha $ is the same as the Freundlich intensity parameter in Equation~\ref{eq:freund}.
+
+\paragraph{Bohart-Adams} The Bohart-Adams model is based  on surface reaction theory and is given in Equation~\ref{eq:bo} \parencite{Bohart1920}.
+\begin{equation}
+\frac{C_t}{C_0} = \exp \left( k_{BA}C_0t - k_{BA} N_0 \frac{Z}{F} \right) \label{eq:bo}
+\end{equation}
+Here, $ k_{BA} $ is the kinetic constant  (\si{\liter\per\milli\gram\per\minute}), $ Z $ is the bed depth  (\si{\centi\meter}), $ N_0 $ is the saturation concentration (\si{\mgpl}), and $ F $ is the linear velocity of solution  (\si{\centi\meter\per\minute}). 
+
+\paragraph{Yoon-Nelson} The Yoon-Nelson model is based on the probability of adsorption while factoring in breakthrough \parencite{Unuabonah2019}:
+\begin{equation}
+\frac{C_t}{C_0} = \frac{\exp\left( k_{YN} t - \tau k_{YN}\right)}{1+ \exp\left(k_{YN} t - \tau k_{YN}\right)}
+\end{equation}
+Where $ K_{YN} $ is the Yoon-Nelson rate constant (\si{\per\minute})
+and $ \tau $ is the time required for \SI{50}{\percent} adsorbate breakthrough (\si{\minute}).
+
+
+

@@ -1,0 +1,77 @@
+                          REVIEWER # 1
+Paper # 168
+Title MICROBIAL PB(II) PRECIPITATION: THE ROLE OF BIOSOR ...........
+by:Van Veenhuyzen B.,Chirwa E.,Brink H.
+ 
+Scientific quality and significance of the work:..........................sufficient
+Novelty & new insights into the problem:..................................good
+Is the presentation clear and understandable by most readers ?:...........sufficient
+Is the paper following the Template rules ?:..............................no
+Is this paper referencing any Chemical Engineering Transactions article?:.yes
+ 
+decision: accept after major revisions
+ 
+Comments by reviewer
+I suggest to address this major revisions prior its acceptance for publish:
+
+Section 1
+
+Modern industrial activities, such as mining and battery manufacturing, continue to introduce
+lead pollutants into the environment. This results in the rapid depletion of global reserves
+and the introduction of lead pollutants into the environment.
+
+This is repetitive. Rephrase these two sentences into one.
+
+Section 2.2
+
+A spectrophotometer with light at 550 nm was used to measure light absorbed by solution and
+infer metabolic activity from the difference between filtered and unfiltered samples
+
+Rephrase this sentence. Suggestion: Light absorption measurements at 550 nm were performer
+to infer metabolic activity differences between filtered and unfiltered samples.
+
+Section 2.3
+
+after 3 h exposure to 50 m NaN3
+Should be: after 3 h exposure to 50 mM NaN3
+
+Section 3.1
+
+The appearance of new peaks could be indicative of the cell wall rupturing, resulting in the
+exposure of various functional groups from the interior off the cell.
+
+Rephrase:
+The appearance of new peaks could be indicative of cell wall rupturing, resulting in the exposure
+of various functional groups from cell inside.
+
+Section 3.2, paragraph 2
+Are the cited experiments performed in the same conditions of scale lead and cell concentration?
+Has the process zero order kinetics with respect to lead and cell concentration. If not, consider
+rephrasing the paragraph adding a notion of conversion rate instead of time to reach equilibrium.
+
+Figure 3: consider adding error bars, change the markers for each experiment and remove lines
+connecting data points.
+ 
+ 
+ 
+                          REVIEWER # 2
+Paper # 168
+Title MICROBIAL PB(II) PRECIPITATION: THE ROLE OF BIOSOR ...........
+by:Van Veenhuyzen B.,Chirwa E.,Brink H.
+ 
+Scientific quality and significance of the work:..........................sufficient
+Novelty & new insights into the problem:..................................sufficient
+Is the presentation clear and understandable by most readers ?:...........poor
+Is the paper following the Template rules ?:..............................no
+Is this paper referencing any Chemical Engineering Transactions article?:.yes
+ 
+decision: accept after major revisions
+ 
+Comments by reviewer
+The manuscript presents experimental studied on the removal of Pb using bacteria. The text
+should be revised and english-proofed to make it more understandable. Also, the specific problem
+that it is being tackled and the concrete objective of the work should be more clearly stated.
+Finally, how can this information be applied in practical terms?
+ 
+ 
+ 
