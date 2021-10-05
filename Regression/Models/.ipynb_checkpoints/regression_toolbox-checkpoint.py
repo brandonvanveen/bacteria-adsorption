@@ -1,6 +1,11 @@
 import numpy, scipy.optimize, scipy.stats
 
 class Model(object):
+    """
+    Parameters
+    
+    equation:    a function from equilibrium_models or kinetic_models
+    """
         
     def __init__(self, equation):
         self.equation = equation
