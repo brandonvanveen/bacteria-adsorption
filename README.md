@@ -1,4 +1,4 @@
-# PB(II) adsorption with living and dead bacteria
+# Pb(II) adsorption with living and dead bacteria
 
 Modelling and investigating surface properties
 
