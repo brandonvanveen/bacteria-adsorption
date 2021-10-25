@@ -76,56 +76,8 @@ Brink, H.G.; H{\"{o}}rstmann, C.; Peens, J.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s13762-019-02502-4}{\detokenize{10.1007/s13762-019-02502-4}}}.
 
-\bibitem[Peens \em{et~al.}(2018)Peens, Wu, and Brink]{Peens2018d}
-Peens, J.; Wu, W.Y.; Brink, H.G.
-\newblock {Microbial Pb(II) Precipitation: The Influence of Elevated Pb(II)
-  Concentrations}.
-\newblock {\em Chemical Engineering Transactions} {\bf 2018}, {\em
-  64},~439--444.
-
-\bibitem[Brink and Mahlangu(2018)]{Brink2018}
-Brink, H.G.; Mahlangu, Z.
-\newblock {Microbial Lead(II) Precipitation: the Influence of Growth
-  Substrate}.
-\newblock {\em Chemical Engineering Transactions} {\bf 2018}, {\em
-  64},~439--444.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.3303/CET1864074}{\detokenize{10.3303/CET1864074}}}.
-
-\bibitem[Brink \em{et~al.}(2019)Brink, H{\"{o}}rstmann, and Feucht]{Brink2019a}
-Brink, H.G.; H{\"{o}}rstmann, C.; Feucht, C.
-\newblock {Microbial Pb(II) Precipitation: Minimum Inhibitory Concentration and
-  Precipitate Identity}.
-\newblock {\em Chemical Engineering Transactions} {\bf 2019}, {\em
-  74},~1453--1458.
-
-\bibitem[Peens(2018)]{Peens2018}
-Peens, J.
-\newblock {Pb (II)-Removal From Water Using Microorganisms Naturally Evolved to
-  Tolerate Pb(II)-Toxicity}.
-\newblock PhD thesis, University of Pretoria, Pretoria,  2018.
-
 \bibitem[H{\"{o}}rstmann \em{et~al.}(2020)H{\"{o}}rstmann, Brink, and
-  Chirwa]{Horstmann2020}
-H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
-\newblock {Pb(II) Bio-Removal, Viability, and Population Distribution of an
-  Industrial Microbial Consortium: The Effect of Pb(II) and Nutrient
-  Concentrations}.
-\newblock {\em Sustainabilty} {\bf 2020}.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/su12062511}{\detokenize{10.3390/su12062511}}}.
-
-\bibitem[Chimhundi \em{et~al.}(2021)Chimhundi, H{\"{o}}rstmann, and
-  Chirwa]{Chimhundi2021}
-Chimhundi, J.; H{\"{o}}rstmann, C.; Chirwa, E.M.N.
-\newblock {Microbial Removal of Pb(II) Using an Upflow Anaerobic Sludge Blanket
-  (UASB) Reactor}.
-\newblock {\em Catalysts} {\bf 2021}, {\em 11},~512.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/https://doi.org/10.3390/catal11040512}{\detokenize{https://doi.org/10.3390/catal11040512}}}.
-
-\bibitem[H{\"{o}}rstmann \em{et~al.}(2020{\natexlab{a}})H{\"{o}}rstmann, Brink,
-  and Chirwa]{Horstmann2020c}
+  Chirwa]{Horstmann2020c}
 H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
 \newblock {Microbial Pb(II) Precipitation: Kinetic Modelling of Pb(II) Removal
   and Microbial Growth}.
@@ -133,16 +85,6 @@ H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
   (ESCAPE30); ,  2020.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/B978-0-12-823377-1.50111-7}{\detokenize{10.1016/B978-0-12-823377-1.50111-7}}}.
-
-\bibitem[H{\"{o}}rstmann \em{et~al.}(2020{\natexlab{b}})H{\"{o}}rstmann, Brink,
-  and Chirwa]{Horstmann2020a}
-H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
-\newblock {Pb(II) Bio-Removal , Viability, and Population Distribution of an
-  Industrial Microbial Consortium : The Effect of Pb(II) and Nutrient
-  Concentrations}.
-\newblock {\em Sustainability} {\bf 2020}, {\em 12},~2511.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/https://doi.org/10.3390/su12062511}{\detokenize{https://doi.org/10.3390/su12062511}}}.
 
 \bibitem[van Veenhuyzen \em{et~al.}(2021)van Veenhuyzen, Chirwa, and
   Brink]{VanVeenhuyzen2021}
@@ -152,6 +94,91 @@ van Veenhuyzen, B.; Chirwa, E.M.N.; Brink, H.G.
 \newblock {\em 86},~181--186.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.3303/CET2186031}{\detokenize{10.3303/CET2186031}}}.
+
+\bibitem[Tunali \em{et~al.}(2006)Tunali, {\c{C}}abuk, and Akar]{Tunali2006}
+Tunali, S.; {\c{C}}abuk, A.; Akar, T.
+\newblock {Removal of lead and copper ions from aqueous solutions by bacterial
+  strain isolated from soil}.
+\newblock {\em Chemical Engineering Journal} {\bf 2006}, {\em 115},~203--211.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.cej.2005.09.023}{\detokenize{10.1016/j.cej.2005.09.023}}}.
+
+\bibitem[Ren \em{et~al.}(2015)Ren, Jin, Zhang, Gu, and Qu]{Ren2015}
+Ren, G.; Jin, Y.; Zhang, C.; Gu, H.; Qu, J.
+\newblock {Characteristics of Bacillus sp. PZ-1 and its biosorption to Pb(II)}.
+\newblock {\em Ecotoxicology and Environmental Safety} {\bf 2015}, {\em
+  117},~141--148.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.ecoenv.2015.03.033}{\detokenize{10.1016/j.ecoenv.2015.03.033}}}.
+
+\bibitem[Salehizadeh and Shojaosadati(2003)]{Salehizadeh2003}
+Salehizadeh, H.; Shojaosadati, S.A.
+\newblock {Removal of metal ions from aqueous solution by polysaccharide
+  produced from Bacillus firmus}.
+\newblock {\em Water Research} {\bf 2003}, {\em 37},~4231--4235.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/S0043-1354(03)00418-4}{\detokenize{10.1016/S0043-1354(03)00418-4}}}.
+
+\bibitem[Hu \em{et~al.}(2020)Hu, Cao, Yang, Li, Qiao, Zhao, Zhang, and
+  Huang]{Hu2020}
+Hu, X.; Cao, J.; Yang, H.; Li, D.; Qiao, Y.; Zhao, J.; Zhang, Z.; Huang, L.
+\newblock {Pb2+ biosorption from aqueous solutions by live and dead biosorbents
+  of the hydrocarbon-degrading strain Rhodococcus sp. HX-2}.
+\newblock {\em PLoS ONE} {\bf 2020}, {\em 15}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1371/journal.pone.0226557}{\detokenize{10.1371/journal.pone.0226557}}}.
+
+\bibitem[Lu \em{et~al.}(2006)Lu, Shi, Wang, and Chang]{Lu2006}
+Lu, W.B.; Shi, J.J.; Wang, C.H.; Chang, J.S.
+\newblock {Biosorption of lead, copper and cadmium by an indigenous isolate
+  Enterobacter sp. J1 possessing high heainitialsvy-metal resistance}.
+\newblock {\em Journal of Hazardous Materials} {\bf 2006}, {\em 134},~80--86.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jhazmat.2005.10.036}{\detokenize{10.1016/j.jhazmat.2005.10.036}}}.
+
+\bibitem[Ayangbenro and Babalola(2017)]{Ayangbenro2017}
+Ayangbenro, A.S.; Babalola, O.O.
+\newblock {A new strategy for heavy metal polluted environments: A review of
+  microbial biosorbents}.
+\newblock {\em International Journal of Environmental Research and Public
+  Health} {\bf 2017}, {\em 14}.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/ijerph14010094}{\detokenize{10.3390/ijerph14010094}}}.
+
+\bibitem[Huang and Liu(2013)]{Huang2013}
+Huang, W.; Liu, Z.M.
+\newblock {Biosorption of Cd(II)/Pb(II) from aqueous solution by
+  biosurfactant-producing bacteria: Isotherm kinetic characteristic and
+  mechanism studies}.
+\newblock {\em Colloids and Surfaces B: Biointerfaces} {\bf 2013}, {\em
+  105},~113--119.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.colsurfb.2012.12.040}{\detokenize{10.1016/j.colsurfb.2012.12.040}}}.
+
+\bibitem[Lin and Lai(2006)]{Lin2006a}
+Lin, C.C.; Lai, Y.T.
+\newblock {Adsorption and recovery of lead(II) from aqueous solutions by
+  immobilized Pseudomonas Aeruginosa PU21 beads}.
+\newblock {\em Journal of Hazardous Materials} {\bf 2006}, {\em 137},~99--105.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jhazmat.2006.02.071}{\detokenize{10.1016/j.jhazmat.2006.02.071}}}.
+
+\bibitem[Chang \em{et~al.}(1997)Chang, Law, and Chang]{Chang1997}
+Chang, J.S.; Law, R.; Chang, C.C.
+\newblock {Biosorption of lead, copper and cadmium by biomass of Pseudomonas
+  aeruginosa PU21}.
+\newblock {\em Water Research} {\bf 1997}, {\em 31},~1651--1658.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/S0043-1354(97)00008-0}{\detokenize{10.1016/S0043-1354(97)00008-0}}}.
+
+\bibitem[Uslu and Tanyol(2006)]{Uslu2006}
+Uslu, G.; Tanyol, M.
+\newblock {Equilibrium and thermodynamic parameters of single and binary
+  mixture biosorption of lead (II) and copper (II) ions onto Pseudomonas
+  putida: Effect of temperature}.
+\newblock {\em Journal of Hazardous Materials} {\bf 2006}, {\em 135},~87--93.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jhazmat.2005.11.029}{\detokenize{10.1016/j.jhazmat.2005.11.029}}}.
 
 \bibitem[Cilliers \em{et~al.}(2021)Cilliers, Chirwa, and Brink]{Cilliers2021}
 Cilliers, C.; Chirwa, E.M.N.; Brink, H.G.

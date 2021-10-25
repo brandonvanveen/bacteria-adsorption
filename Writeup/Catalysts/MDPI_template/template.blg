@@ -3,52 +3,47 @@ Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
 The top-level auxiliary file: template.aux
 The style file: Definitions/mdpi.bst
 Database file #1: library.bib
-Repeated entry---line 4996 of file library.bib
- : @article{Peens2018d
- :                    ,
-I'm skipping whatever remains of this entry
 Warning--there's a number but no volume in Levinson1996
-Warning--there's a number but no volume in Horstmann2020
 Warning--empty journal in VanVeenhuyzen2021
-You've used 29 entries,
+You've used 32 entries,
             2862 wiz_defined-function locations,
-            798 strings with 10504 characters,
-and the built_in function-call counts, 11664 in all, are:
-= -- 1001
-> -- 659
-< -- 8
-+ -- 251
-- -- 192
-* -- 1165
-:= -- 1864
-add.period$ -- 110
-call.type$ -- 29
-change.case$ -- 29
-chr.to.int$ -- 28
-cite$ -- 32
-duplicate$ -- 522
-empty$ -- 959
-format.name$ -- 231
-if$ -- 2374
-int.to.chr$ -- 2
-int.to.str$ -- 29
-missing$ -- 28
-newline$ -- 171
-num.names$ -- 87
-pop$ -- 165
+            833 strings with 11729 characters,
+and the built_in function-call counts, 13209 in all, are:
+= -- 1135
+> -- 760
+< -- 11
++ -- 286
+- -- 222
+* -- 1336
+:= -- 2102
+add.period$ -- 125
+call.type$ -- 32
+change.case$ -- 32
+chr.to.int$ -- 32
+cite$ -- 34
+duplicate$ -- 580
+empty$ -- 1073
+format.name$ -- 272
+if$ -- 2684
+int.to.chr$ -- 1
+int.to.str$ -- 32
+missing$ -- 32
+newline$ -- 192
+num.names$ -- 96
+pop$ -- 175
 preamble$ -- 0
-purify$ -- 29
+purify$ -- 32
 quote$ -- 0
-skip$ -- 249
+skip$ -- 287
 stack$ -- 0
-substring$ -- 626
-swap$ -- 117
+substring$ -- 727
+swap$ -- 131
 text.length$ -- 1
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 203
-warning$ -- 3
-while$ -- 104
+type$ -- 224
+warning$ -- 2
+while$ -- 118
 width$ -- 0
-write$ -- 396
-(There was 1 error message)
+write$ -- 443
+(There were 2 warnings)
