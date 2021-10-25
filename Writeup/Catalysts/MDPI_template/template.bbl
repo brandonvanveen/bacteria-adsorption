@@ -1,5 +1,21 @@
 \begin{thebibliography}{999}
 
+\bibitem[Tong \em{et~al.}(2000)Tong, {Von Schirnding}, and
+  Prapamontol]{Tong2000}
+Tong, S.; {Von Schirnding}, Y.E.; Prapamontol, T.
+\newblock {Environmental lead exposure: a public health problem with global
+  dimensions}.
+\newblock {\em Bulletin of the World Health Organization} {\bf 2000}, {\em
+  78},~1068--1077.
+
+\bibitem[Fu and Wang(2011)]{Fu2011}
+Fu, F.; Wang, Q.
+\newblock {Removal of heavy metal ions from wastewaters: A review}.
+\newblock {\em Journal of Environmental Management} {\bf 2011}, {\em
+  92},~407--418.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jenvman.2010.11.011}{\detokenize{10.1016/j.jenvman.2010.11.011}}}.
+
 \bibitem[Philp \em{et~al.}(2005)Philp, Barnforth, Singleton, and
   Atlas]{Philp2005}
 Philp, J.C.; Barnforth, S.M.; Singleton, I.; Atlas, R.M.
@@ -15,13 +31,11 @@ Kang, C.H.; Oh, S.J.; Shin, Y.J.; Han, S.H.; Nam, I.H.; So, J.S.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.ecoleng.2014.10.009}{\detokenize{10.1016/j.ecoleng.2014.10.009}}}.
 
-\bibitem[Chatterjee \em{et~al.}(2012)Chatterjee, Mukherjee, Sarkar, and
-  R.]{Chatterjee2012}
-Chatterjee, S.; Mukherjee, A.; Sarkar, A.; R., P.
-\newblock {Bioremediation of lead by lead-resistant microorganisms, isolated
-  from industrial sample}.
-\newblock {\em Advances in Bioscience and Biotechnology} {\bf 2012}, {\em
-  03},~290--295.
+\bibitem[Chatterjee and Chaudhuri(2012)]{Chatterjee2012}
+Chatterjee, S.; Chaudhuri, K.
+\newblock {\em {Outer Membrane Vesicles of Bacteria}}; Springer,  2012.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/978-3-642-17997-6}{\detokenize{10.1007/978-3-642-17997-6}}}.
 
 \bibitem[{Bilal Shakoor} \em{et~al.}(2013){Bilal Shakoor}, Ali, Farid, {Ahsan
   Farooq}, {Muhammad Tauqeer}, Iftikhar, Hannan, and {Aslam
@@ -82,13 +96,22 @@ Peens, J.
 
 \bibitem[H{\"{o}}rstmann \em{et~al.}(2020)H{\"{o}}rstmann, Brink, and
   Chirwa]{Horstmann2020}
-H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.
+H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
 \newblock {Pb(II) Bio-Removal, Viability, and Population Distribution of an
   Industrial Microbial Consortium: The Effect of Pb(II) and Nutrient
   Concentrations}.
 \newblock {\em Sustainabilty} {\bf 2020}.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.3390/su12062511}{\detokenize{10.3390/su12062511}}}.
+
+\bibitem[Chimhundi \em{et~al.}(2021)Chimhundi, H{\"{o}}rstmann, and
+  Chirwa]{Chimhundi2021}
+Chimhundi, J.; H{\"{o}}rstmann, C.; Chirwa, E.M.N.
+\newblock {Microbial Removal of Pb(II) Using an Upflow Anaerobic Sludge Blanket
+  (UASB) Reactor}.
+\newblock {\em Catalysts} {\bf 2021}, {\em 11},~512.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/https://doi.org/10.3390/catal11040512}{\detokenize{https://doi.org/10.3390/catal11040512}}}.
 
 \bibitem[Brink \em{et~al.}(2020)Brink, H{\"{o}}rstmann, and Peens]{Brink2020}
 Brink, H.G.; H{\"{o}}rstmann, C.; Peens, J.
@@ -129,15 +152,6 @@ van Veenhuyzen, B.; Chirwa, E.M.N.; Brink, H.G.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.3303/CET2186031}{\detokenize{10.3303/CET2186031}}}.
 
-\bibitem[Chimhundi \em{et~al.}(2021)Chimhundi, H{\"{o}}rstmann, and
-  Chirwa]{Chimhundi2021}
-Chimhundi, J.; H{\"{o}}rstmann, C.; Chirwa, E.M.N.
-\newblock {Microbial Removal of Pb(II) Using an Upflow Anaerobic Sludge Blanket
-  (UASB) Reactor}.
-\newblock {\em Catalysts} {\bf 2021}, {\em 11},~512.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/https://doi.org/10.3390/catal11040512}{\detokenize{https://doi.org/10.3390/catal11040512}}}.
-
 \bibitem[Cilliers \em{et~al.}(2021)Cilliers, Chirwa, and Brink]{Cilliers2021}
 Cilliers, C.; Chirwa, E.M.N.; Brink, H.G.
 \newblock {Insight into the Metabolic Profiles of Pb(II) Removing
@@ -166,13 +180,33 @@ Haas, J.R.; Dichristina, T.J.; Wade, R.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/S0009-2541(01)00304-7}{\detokenize{10.1016/S0009-2541(01)00304-7}}}.
 
-\bibitem[Swaren \em{et~al.}(2021)Swaren, Alessi, Owttrim, and
-  Konhauser]{Swaren2021}
-Swaren, L.; Alessi, D.S.; Owttrim, G.W.; Konhauser, K.O.
-\newblock {Acid-base properties of Synechococcus-derived organic matter}.
-\newblock {\em Geochimica et Cosmochimica Acta} {\bf 2021}.
+\bibitem[Dittrich and Sibler(2005)]{Dittrich2005}
+Dittrich, M.; Sibler, S.
+\newblock {Cell surface groups of two picocyanobacteria strains studied by zeta
+  potential investigations, potentiometric titration, and infrared
+  spectroscopy}.
+\newblock {\em Journal of Colloid and Interface Science} {\bf 2005}, {\em
+  286},~487--495.
 \newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.gca.2021.10.003}{\detokenize{10.1016/j.gca.2021.10.003}}}.
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jcis.2005.01.029}{\detokenize{10.1016/j.jcis.2005.01.029}}}.
+
+\bibitem[Daughney \em{et~al.}(1998)Daughney, Fein, and Yee]{Daughney1998}
+Daughney, C.J.; Fein, J.B.; Yee, N.
+\newblock {A comparison of the thermodynamics of metal adsorption onto two
+  common bacteria}.
+\newblock {\em Chemical Geology} {\bf 1998}, {\em 144},~161--176.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/S0009-2541(97)00124-1}{\detokenize{10.1016/S0009-2541(97)00124-1}}}.
+
+\bibitem[{Urrutia Mera} \em{et~al.}(1992){Urrutia Mera}, Kemper, Doyle, and
+  Beveridge]{Mera1992}
+{Urrutia Mera}, M.; Kemper, M.; Doyle, R.; Beveridge, T.J.
+\newblock {The membrane-induced proton motive force influences the metal
+  binding ability of Bacillus subtilis cell walls}.
+\newblock {\em Applied and Environmental Microbiology} {\bf 1992}, {\em
+  58},~3837--3844.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1128/aem.58.12.3837-3844.1992}{\detokenize{10.1128/aem.58.12.3837-3844.1992}}}.
 
 \bibitem[Johnson \em{et~al.}(2007)Johnson, Ams, Wedel, Szymanowski, Weber,
   Schneegurt, and Fein]{Johnson2007a}
@@ -184,14 +218,13 @@ Johnson, K.J.; Ams, D.A.; Wedel, A.N.; Szymanowski, J.E.; Weber, D.L.;
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1111/j.1472-4669.2007.00111.x}{\detokenize{10.1111/j.1472-4669.2007.00111.x}}}.
 
-\bibitem[Mera \em{et~al.}(1992)Mera, Kemper, Doyle, and Beveridge]{Mera1992}
-Mera, M.U.; Kemper, M.; Doyle, R.; Beveridge, T.J.
-\newblock {The membrane-induced proton motive force influences the metal
-  binding ability of Bacillus subtilis cell walls}.
-\newblock {\em Applied and Environmental Microbiology} {\bf 1992}, {\em
-  58},~3837--3844.
+\bibitem[Swaren \em{et~al.}(2021)Swaren, Alessi, Owttrim, and
+  Konhauser]{Swaren2021}
+Swaren, L.; Alessi, D.S.; Owttrim, G.W.; Konhauser, K.O.
+\newblock {Acid-base properties of Synechococcus-derived organic matter}.
+\newblock {\em Geochimica et Cosmochimica Acta} {\bf 2021}.
 \newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1128/aem.58.12.3837-3844.1992}{\detokenize{10.1128/aem.58.12.3837-3844.1992}}}.
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.gca.2021.10.003}{\detokenize{10.1016/j.gca.2021.10.003}}}.
 
 \bibitem[Claessens \em{et~al.}(2004)Claessens, Behrends, and {Van
   Cappellen}]{Claessens2004}
