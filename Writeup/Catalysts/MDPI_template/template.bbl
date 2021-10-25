@@ -8,6 +8,16 @@ Tong, S.; {Von Schirnding}, Y.E.; Prapamontol, T.
 \newblock {\em Bulletin of the World Health Organization} {\bf 2000}, {\em
   78},~1068--1077.
 
+\bibitem[Zeng \em{et~al.}(2017)Zeng, Wan, Huang, Hu, Huang, Cheng, Xue, Gong,
+  Wang, and Jiang]{Zeng2017}
+Zeng, G.; Wan, J.; Huang, D.; Hu, L.; Huang, C.; Cheng, M.; Xue, W.; Gong, X.;
+  Wang, R.; Jiang, D.
+\newblock {Precipitation, adsorption and rhizosphere effect: The mechanisms for
+  Phosphate-induced Pb immobilization in soils—A review}.
+\newblock {\em Journal of Hazardous Materials} {\bf 2017}, {\em 339},~354--367.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jhazmat.2017.05.038}{\detokenize{10.1016/j.jhazmat.2017.05.038}}}.
+
 \bibitem[Fu and Wang(2011)]{Fu2011}
 Fu, F.; Wang, Q.
 \newblock {Removal of heavy metal ions from wastewaters: A review}.
@@ -16,44 +26,35 @@ Fu, F.; Wang, Q.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jenvman.2010.11.011}{\detokenize{10.1016/j.jenvman.2010.11.011}}}.
 
-\bibitem[Philp \em{et~al.}(2005)Philp, Barnforth, Singleton, and
-  Atlas]{Philp2005}
-Philp, J.C.; Barnforth, S.M.; Singleton, I.; Atlas, R.M.
-\newblock {Environmental Pollution and Restoration: A Role for Bioremediation}.
-  In {\em Bioremediation Applied Microbial Solutions for Real-World
-  Environmental Cleanup}; ASM Press: Washington, D.C.,  2005; pp. 1--24.
+\bibitem[Levinson \em{et~al.}(1996)Levinson, Mahler, Blackwelder, and
+  Hood]{Levinson1996}
+Levinson, H.; Mahler, I.; Blackwelder, P.; Hood, T.
+\newblock {Lead resistance and sensitivity in Staphylococcus aureus }.
+\newblock {\em FEMS Microbiology Letters} {\bf 1996}, pp. 421--425.
 
-\bibitem[Kang \em{et~al.}(2015)Kang, Oh, Shin, Han, Nam, and So]{Kang2015}
-Kang, C.H.; Oh, S.J.; Shin, Y.J.; Han, S.H.; Nam, I.H.; So, J.S.
-\newblock {Bioremediation of lead by ureolytic bacteria isolated from soil at
-  abandoned metal mines in South Korea}.
-\newblock {\em Ecological Engineering} {\bf 2015}, {\em 74},~402--407.
+\bibitem[Naik \em{et~al.}(2013)Naik, Khanolkar, and Dubey]{Naik2013c}
+Naik, M.M.; Khanolkar, D.; Dubey, S.K.
+\newblock {Lead-resistant Providencia alcalifaciens strain 2EA bioprecipitates
+  Pb+2 as lead phosphate}.
+\newblock {\em Letters in Applied Microbiology} {\bf 2013}, {\em 56},~99--104.
 \newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.ecoleng.2014.10.009}{\detokenize{10.1016/j.ecoleng.2014.10.009}}}.
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1111/lam.12026}{\detokenize{10.1111/lam.12026}}}.
 
-\bibitem[Chatterjee and Chaudhuri(2012)]{Chatterjee2012}
-Chatterjee, S.; Chaudhuri, K.
-\newblock {\em {Outer Membrane Vesicles of Bacteria}}; Springer,  2012.
+\bibitem[De \em{et~al.}(2008)De, Ramaiah, and Vardanyan]{De2008}
+De, J.; Ramaiah, N.; Vardanyan, L.
+\newblock {Detoxification of Toxic Heavy Metals by Marine Bacteria Highly
+  Resistant to Mercury}.
+\newblock {\em Mar Biotechnol} {\bf 2008}, {\em 10},~471--477.
 \newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/978-3-642-17997-6}{\detokenize{10.1007/978-3-642-17997-6}}}.
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s10126-008-9083-z}{\detokenize{10.1007/s10126-008-9083-z}}}.
 
-\bibitem[{Bilal Shakoor} \em{et~al.}(2013){Bilal Shakoor}, Ali, Farid, {Ahsan
-  Farooq}, {Muhammad Tauqeer}, Iftikhar, Hannan, and {Aslam
-  Bharwana}]{Shakoor2013}
-{Bilal Shakoor}, M.; Ali, S.; Farid, M.; {Ahsan Farooq}, M.; {Muhammad
-  Tauqeer}, H.; Iftikhar, U.; Hannan, F.; {Aslam Bharwana}, S.
-\newblock {Heavy metal pollution, a global problem and its remediation by
-  chemically enhanced phytoremediation: A Review}.
-\newblock {\em J. Bio. {\&} Env. Sci} {\bf 2013}, {\em 2013},~12--20.
-
-\bibitem[Chakraborty \em{et~al.}(2013)Chakraborty, Mukherjee, and
-  Das]{Chakraborty2013}
-Chakraborty, S.; Mukherjee, A.; Das, T.P.
-\newblock {Biochemical characterization of a lead-tolerant strain of
-  Aspergillus foetidus: An implication of bioremediation of lead from liquid
-  media}.
-\newblock {\em International Biodeterioration {\&} Biodegradation} {\bf 2013},
-  {\em 84},~134--142.
+\bibitem[Amer and Kim(2022)]{Amer2022}
+Amer, A.; Kim, Y.
+\newblock {Isolation of Pb(II)-reducing bacteria and demonstration of
+  biological Pb(II) reduction to metallic Pb}.
+\newblock {\em Journal of Hazardous Materials} {\bf 2022}, {\em 423},~126975.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jhazmat.2021.126975}{\detokenize{10.1016/j.jhazmat.2021.126975}}}.
 
 \bibitem[Brink \em{et~al.}(2017)Brink, Lategan, Naud{\'{e}}, and
   Chirwa]{Brink2017}
@@ -64,6 +65,16 @@ Brink, H.G.; Lategan, M.; Naud{\'{e}}, K.; Chirwa, E.M.N.
   57},~409--414.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.3303/CET1757069}{\detokenize{10.3303/CET1757069}}}.
+
+\bibitem[Brink \em{et~al.}(2020)Brink, H{\"{o}}rstmann, and Peens]{Brink2020}
+Brink, H.G.; H{\"{o}}rstmann, C.; Peens, J.
+\newblock {Microbial Pb(II)-precipitation: the influence of oxygen on
+  Pb(II)-removal from aqueous environment and the resulting precipitate
+  identity}.
+\newblock {\em International Journal of Environmental Science and Technology}
+  {\bf 2020}, {\em 17},~409--420.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s13762-019-02502-4}{\detokenize{10.1007/s13762-019-02502-4}}}.
 
 \bibitem[Peens \em{et~al.}(2018)Peens, Wu, and Brink]{Peens2018d}
 Peens, J.; Wu, W.Y.; Brink, H.G.
@@ -113,16 +124,6 @@ Chimhundi, J.; H{\"{o}}rstmann, C.; Chirwa, E.M.N.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/https://doi.org/10.3390/catal11040512}{\detokenize{https://doi.org/10.3390/catal11040512}}}.
 
-\bibitem[Brink \em{et~al.}(2020)Brink, H{\"{o}}rstmann, and Peens]{Brink2020}
-Brink, H.G.; H{\"{o}}rstmann, C.; Peens, J.
-\newblock {Microbial Pb(II)-precipitation: the influence of oxygen on
-  Pb(II)-removal from aqueous environment and the resulting precipitate
-  identity}.
-\newblock {\em International Journal of Environmental Science and Technology}
-  {\bf 2020}, {\em 17},~409--420.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1007/s13762-019-02502-4}{\detokenize{10.1007/s13762-019-02502-4}}}.
-
 \bibitem[H{\"{o}}rstmann \em{et~al.}(2020{\natexlab{a}})H{\"{o}}rstmann, Brink,
   and Chirwa]{Horstmann2020c}
 H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
@@ -136,7 +137,7 @@ H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
 \bibitem[H{\"{o}}rstmann \em{et~al.}(2020{\natexlab{b}})H{\"{o}}rstmann, Brink,
   and Chirwa]{Horstmann2020a}
 H{\"{o}}rstmann, C.; Brink, H.G.; Chirwa, E.M.N.
-\newblock {Pb(II) Bio-Removal , Viability , and Population Distribution of an
+\newblock {Pb(II) Bio-Removal , Viability, and Population Distribution of an
   Industrial Microbial Consortium : The Effect of Pb(II) and Nutrient
   Concentrations}.
 \newblock {\em Sustainability} {\bf 2020}, {\em 12},~2511.
