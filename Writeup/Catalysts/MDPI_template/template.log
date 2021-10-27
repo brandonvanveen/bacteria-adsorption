@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.10.20)  25 OCT 2021 20:50
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.10.20)  26 OCT 2021 19:46
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1486,7 +1486,7 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-12.18796pt}.
 
 [6]
-Overfull \hbox (59.77545pt too wide) in paragraph at lines 190--195
+Overfull \hbox (59.77545pt too wide) in paragraph at lines 184--189
 []\T1/ppl/m/n/9 (-20) Vijayaraghavan, K.; Yun, Y.S.  Bac-te-rial biosor-bents a
 nd biosorp-tion.  \T1/ppl/m/it/9 (-20) Biotech-nol-ogy Ad-vances \T1/ppl/b/n/9 
 (-20) 2008\T1/ppl/m/n/9 (-20) , \T1/ppl/m/it/9 (-20) 26\T1/ppl/m/n/9 (-20) , 26
@@ -1508,10 +1508,10 @@ Package rerunfilecheck Info: File `template.out' has not changed.
 (rerunfilecheck)             Checksum: 0F99EE91A6B424C303BBCC84861F0922;1501.
  ) 
 Here is how much of TeX's memory you used:
- 31497 strings out of 479304
- 562424 string characters out of 5869778
- 936493 words of memory out of 5000000
- 47584 multiletter control sequences out of 15000+600000
+ 31501 strings out of 479304
+ 562493 string characters out of 5869778
+ 936614 words of memory out of 5000000
+ 47587 multiletter control sequences out of 15000+600000
  474922 words of font info for 402 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  126i,13n,130p,3662b,1082s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -1522,10 +1522,10 @@ ype1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf/fonts/type1/public/cm-super
 b></usr/share/texlive/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/sha
 re/texlive/texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/share/texlive/t
 exmf-dist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on template.pdf (7 pages, 184124 bytes).
+Output written on template.pdf (7 pages, 184259 bytes).
 PDF statistics:
- 270 PDF objects out of 1000 (max. 8388607)
- 244 compressed objects within 3 object streams
- 63 named destinations out of 1000 (max. 500000)
+ 272 PDF objects out of 1000 (max. 8388607)
+ 246 compressed objects within 3 object streams
+ 64 named destinations out of 1000 (max. 500000)
  105607 words of extra memory for PDF output out of 106986 (max. 10000000)
 

@@ -180,18 +180,41 @@ Uslu, G.; Tanyol, M.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.jhazmat.2005.11.029}{\detokenize{10.1016/j.jhazmat.2005.11.029}}}.
 
-\bibitem[Cilliers \em{et~al.}(2021)Cilliers, Chirwa, and Brink]{Cilliers2021}
-Cilliers, C.; Chirwa, E.M.N.; Brink, H.G.
-\newblock {Insight into the Metabolic Profiles of Pb(II) Removing
-  Microorganisms}.
-\newblock {\em Molecules} {\bf 2021}, {\em 26}.
-
 \bibitem[Vijayaraghavan and Yun(2008)]{Vijayaraghavan2008}
 Vijayaraghavan, K.; Yun, Y.S.
 \newblock {Bacterial biosorbents and biosorption}.
 \newblock {\em Biotechnology Advances} {\bf 2008}, {\em 26},~266--291.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.biotechadv.2008.02.002}{\detokenize{10.1016/j.biotechadv.2008.02.002}}}.
+
+\bibitem[{Urrutia Mera} \em{et~al.}(1992){Urrutia Mera}, Kemper, Doyle, and
+  Beveridge]{Mera1992}
+{Urrutia Mera}, M.; Kemper, M.; Doyle, R.; Beveridge, T.J.
+\newblock {The membrane-induced proton motive force influences the metal
+  binding ability of Bacillus subtilis cell walls}.
+\newblock {\em Applied and Environmental Microbiology} {\bf 1992}, {\em
+  58},~3837--3844.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1128/aem.58.12.3837-3844.1992}{\detokenize{10.1128/aem.58.12.3837-3844.1992}}}.
+
+\bibitem[Kemper \em{et~al.}(1993)Kemper, Urrutia, Beveridge, Koch, and
+  Doyle]{Kemper1993}
+Kemper, M.A.; Urrutia, M.M.; Beveridge, T.J.; Koch, A.L.; Doyle, R.J.
+\newblock {Proton motive force may regulate cell wall-associated enzymes of
+  Bacillus subtilis}.
+\newblock {\em Journal of Bacteriology} {\bf 1993}, {\em 175},~5690--5696.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1128/jb.175.17.5690-5696.1993}{\detokenize{10.1128/jb.175.17.5690-5696.1993}}}.
+
+\bibitem[Johnson \em{et~al.}(2007)Johnson, Ams, Wedel, Szymanowski, Weber,
+  Schneegurt, and Fein]{Johnson2007a}
+Johnson, K.J.; Ams, D.A.; Wedel, A.N.; Szymanowski, J.E.; Weber, D.L.;
+  Schneegurt, M.A.; Fein, J.B.
+\newblock {The impact of metabolic state on Cd adsorption onto bacterial
+  cells}.
+\newblock {\em Geobiology} {\bf 2007}, {\em 5},~211--218.
+\newblock
+  doi:{\changeurlcolor{black}\href{https://doi.org/10.1111/j.1472-4669.2007.00111.x}{\detokenize{10.1111/j.1472-4669.2007.00111.x}}}.
 
 \bibitem[Lu \em{et~al.}(2012)Lu, Zhang, Yang, Huang, Wang, and Qiu]{Lu2012}
 Lu, H.; Zhang, W.; Yang, Y.; Huang, X.; Wang, S.; Qiu, R.
@@ -200,6 +223,12 @@ Lu, H.; Zhang, W.; Yang, Y.; Huang, X.; Wang, S.; Qiu, R.
 \newblock {\em Water Research} {\bf 2012}, {\em 46},~854--862.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/j.watres.2011.11.058}{\detokenize{10.1016/j.watres.2011.11.058}}}.
+
+\bibitem[Cilliers \em{et~al.}(2021)Cilliers, Chirwa, and Brink]{Cilliers2021}
+Cilliers, C.; Chirwa, E.M.N.; Brink, H.G.
+\newblock {Insight into the Metabolic Profiles of Pb(II) Removing
+  Microorganisms}.
+\newblock {\em Molecules} {\bf 2021}, {\em 26}.
 
 \bibitem[Haas \em{et~al.}(2001)Haas, Dichristina, and Wade]{Haas2001}
 Haas, J.R.; Dichristina, T.J.; Wade, R.
@@ -225,26 +254,6 @@ Daughney, C.J.; Fein, J.B.; Yee, N.
 \newblock {\em Chemical Geology} {\bf 1998}, {\em 144},~161--176.
 \newblock
   doi:{\changeurlcolor{black}\href{https://doi.org/10.1016/S0009-2541(97)00124-1}{\detokenize{10.1016/S0009-2541(97)00124-1}}}.
-
-\bibitem[{Urrutia Mera} \em{et~al.}(1992){Urrutia Mera}, Kemper, Doyle, and
-  Beveridge]{Mera1992}
-{Urrutia Mera}, M.; Kemper, M.; Doyle, R.; Beveridge, T.J.
-\newblock {The membrane-induced proton motive force influences the metal
-  binding ability of Bacillus subtilis cell walls}.
-\newblock {\em Applied and Environmental Microbiology} {\bf 1992}, {\em
-  58},~3837--3844.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1128/aem.58.12.3837-3844.1992}{\detokenize{10.1128/aem.58.12.3837-3844.1992}}}.
-
-\bibitem[Johnson \em{et~al.}(2007)Johnson, Ams, Wedel, Szymanowski, Weber,
-  Schneegurt, and Fein]{Johnson2007a}
-Johnson, K.J.; Ams, D.A.; Wedel, A.N.; Szymanowski, J.E.; Weber, D.L.;
-  Schneegurt, M.A.; Fein, J.B.
-\newblock {The impact of metabolic state on Cd adsorption onto bacterial
-  cells}.
-\newblock {\em Geobiology} {\bf 2007}, {\em 5},~211--218.
-\newblock
-  doi:{\changeurlcolor{black}\href{https://doi.org/10.1111/j.1472-4669.2007.00111.x}{\detokenize{10.1111/j.1472-4669.2007.00111.x}}}.
 
 \bibitem[Swaren \em{et~al.}(2021)Swaren, Alessi, Owttrim, and
   Konhauser]{Swaren2021}
